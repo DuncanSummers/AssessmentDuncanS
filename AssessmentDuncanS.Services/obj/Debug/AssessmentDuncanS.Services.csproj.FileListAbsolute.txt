@@ -1,0 +1,16 @@
+C:\Users\djsum\source\repos\AssessmentDuncanS\AssessmentDuncanS.Services\bin\Debug\AssessmentDuncanS.Services.dll
+C:\Users\djsum\source\repos\AssessmentDuncanS\AssessmentDuncanS.Services\bin\Debug\AssessmentDuncanS.Services.pdb
+C:\Users\djsum\source\repos\AssessmentDuncanS\AssessmentDuncanS.Services\obj\Debug\AssessmentDuncanS.Services.csproj.AssemblyReference.cache
+C:\Users\djsum\source\repos\AssessmentDuncanS\AssessmentDuncanS.Services\obj\Debug\AssessmentDuncanS.Services.csproj.CoreCompileInputs.cache
+C:\Users\djsum\source\repos\AssessmentDuncanS\AssessmentDuncanS.Services\obj\Debug\AssessmentDuncanS.Services.dll
+C:\Users\djsum\source\repos\AssessmentDuncanS\AssessmentDuncanS.Services\obj\Debug\AssessmentDuncanS.Services.pdb
+C:\Users\djsum\source\repos\AssessmentDuncanS\AssessmentDuncanS.Services\bin\Debug\AssessmentDuncanS.Services.dll.config
+C:\Users\djsum\source\repos\AssessmentDuncanS\AssessmentDuncanS.Services\bin\Debug\EntityFramework.dll
+C:\Users\djsum\source\repos\AssessmentDuncanS\AssessmentDuncanS.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\djsum\source\repos\AssessmentDuncanS\AssessmentDuncanS.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\djsum\source\repos\AssessmentDuncanS\AssessmentDuncanS.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\djsum\source\repos\AssessmentDuncanS\AssessmentDuncanS.Services\bin\Debug\EntityFramework.xml
+C:\Users\djsum\source\repos\AssessmentDuncanS\AssessmentDuncanS.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\djsum\source\repos\AssessmentDuncanS\AssessmentDuncanS.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\djsum\source\repos\AssessmentDuncanS\AssessmentDuncanS.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\djsum\source\repos\AssessmentDuncanS\AssessmentDuncanS.Services\obj\Debug\AssessmentDuncanS.Services.csproj.CopyComplete
