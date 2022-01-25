@@ -33,3 +33,7 @@ C:\Users\djsum\source\repos\AssessmentDuncanS\AssessmentDuncanS.Data\bin\Debug\S
 C:\Users\djsum\source\repos\AssessmentDuncanS\AssessmentDuncanS.Data\obj\Debug\AssessmentDuncanS.Data.csproj.CopyComplete
 C:\Users\djsum\source\repos\AssessmentDuncanS\AssessmentDuncanS.Data\obj\Debug\AssessmentDuncanS.Data.dll
 C:\Users\djsum\source\repos\AssessmentDuncanS\AssessmentDuncanS.Data\obj\Debug\AssessmentDuncanS.Data.pdb
+C:\Users\djsum\source\repos\AssessmentDuncanS\AssessmentDuncanS.Data\obj\Debug\AssessmentDuncanS.Data.Migrations.InitialCreate.resources
+C:\Users\djsum\source\repos\AssessmentDuncanS\AssessmentDuncanS.Data\obj\Debug\AssessmentDuncanS.Data.csproj.GenerateResource.cache
+C:\Users\djsum\source\repos\AssessmentDuncanS\AssessmentDuncanS.Data\obj\Debug\AssessmentDuncanS.Data.Migrations.initalmigration.resources
+C:\Users\djsum\source\repos\AssessmentDuncanS\AssessmentDuncanS.Data\obj\Debug\AssessmentDuncanS.Data.Migrations.secondmigration.resources

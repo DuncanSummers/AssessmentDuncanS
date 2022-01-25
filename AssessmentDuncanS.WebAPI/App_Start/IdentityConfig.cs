@@ -55,10 +55,10 @@ namespace AssessmentDuncanS.WebAPI
             manager.PasswordValidator = new PasswordValidator
             {
                 RequiredLength = 6,
-                RequireNonLetterOrDigit = true,
-                RequireDigit = true,
-                RequireLowercase = true,
-                RequireUppercase = true,
+                RequireNonLetterOrDigit = false,
+                RequireDigit = false,
+                RequireLowercase = false, //changed to false
+                RequireUppercase = false, //changed to false
             };
 
             // Configure user lockout defaults

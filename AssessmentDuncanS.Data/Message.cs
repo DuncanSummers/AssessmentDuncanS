@@ -23,5 +23,8 @@ namespace AssessmentDuncanS.Data
         [MinLength(1, ErrorMessage ="Please type your message")]
         [MaxLength(1000, ErrorMessage ="Message exceeds character limit")]
         public string Content { get; set; }
+        [Required]
+        [Display(Name ="Time Sent")]
+        public DateTimeOffset SentUTC { get; set; }
     }
 }
