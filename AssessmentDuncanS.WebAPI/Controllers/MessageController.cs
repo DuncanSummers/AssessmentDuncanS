@@ -73,6 +73,20 @@ namespace AssessmentDuncanS.WebAPI.Controllers
             return View(model);
         }
 
+        // Add Delete Post method to remove from database
+        [HttpPost]
+        [ActionName("Delete")]
+        [ValidateAntiForgeryToken]
+        public ActionResult DeletePost(int id)
+        {
+            var service = CreateMessageService();
+
+            service.DeleteMessage(id);
+
+            TempData["SaveResult"] = "Message Deleted";
+            return RedirectToAction("Index");
+        }
+
         //extracted method
         private MessageService CreateMessageService()
         {

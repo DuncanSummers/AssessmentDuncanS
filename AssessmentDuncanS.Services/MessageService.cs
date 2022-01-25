@@ -70,16 +70,17 @@ namespace AssessmentDuncanS.Services
             }
         }
 
-        public bool DeleteNote(int noteId)
+        // Delete method added to remove from database, controller will use this method
+        public bool DeleteMessage(int messageId)
         {
             using (var ctx = new ApplicationDbContext())
             {
                 var entity =
                     ctx
-                        .Notes
-                        .Single(e => e.NoteID == noteId && e.OwnerID == _userId);
+                        .Messages
+                        .Single(e => e.MessageID == messageId && e.Sender == _userId);
 
-                ctx.Notes.Remove(entity);
+                ctx.Messages.Remove(entity);
 
                 return ctx.SaveChanges() == 1;
             }
