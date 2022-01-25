@@ -55,8 +55,17 @@ namespace AssessmentDuncanS.WebAPI.Controllers
             return View(model);
         }
 
-        // Add Details to controller
+        // Add Details to controller, create view
         public ActionResult Details(int id)
+        {
+            var svc = CreateMessageService();
+            var model = svc.GetMessageById(id);
+
+            return View(model);
+        }
+
+        // Add Delete to controller, create default view
+        public ActionResult Delete(int id)
         {
             var svc = CreateMessageService();
             var model = svc.GetMessageById(id);

@@ -47,6 +47,7 @@
         <td>
             @Html.DisplayFor(modelItem => item.SentUTC)
         </td>
+        <!--anonymous classes inside action links will communicate with messagecontroller and select appropriate message-->
         <td>
             @Html.ActionLink("Edit", "Edit", new { id=item.MessageID }) |
             @Html.ActionLink("Details", "Details", new { id=item.MessageID }) |
