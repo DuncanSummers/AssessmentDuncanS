@@ -54,11 +54,22 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="MessageService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AssessmentDuncanS.Data\AssessmentDuncanS.Data.csproj">
+      <Project>{7ddd9fda-cb35-4785-b7ba-e65b8d3703ee}</Project>
+      <Name>AssessmentDuncanS.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AssessmentDuncanS.Models\AssessmentDuncanS.Models.csproj">
+      <Project>{9ee07338-4881-4675-8c2c-a41f1e839bd0}</Project>
+      <Name>AssessmentDuncanS.Models</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

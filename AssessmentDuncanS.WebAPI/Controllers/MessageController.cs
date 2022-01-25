@@ -41,7 +41,8 @@ namespace AssessmentDuncanS.WebAPI.Controllers
                 return View(model);
             }
 
-            MessageService service = CreateMessageService();
+            //extract method
+            var service = CreateMessageService();
 
             if (service.CreateMessage(model))
             {
@@ -54,6 +55,16 @@ namespace AssessmentDuncanS.WebAPI.Controllers
             return View(model);
         }
 
+        // Add Details to controller
+        public ActionResult Details(int id)
+        {
+            var svc = CreateMessageService();
+            var model = svc.GetMessageById(id);
+
+            return View(model);
+        }
+
+        //extracted method
         private MessageService CreateMessageService()
         {
             var userId = Guid.Parse(User.Identity.GetUserId());
