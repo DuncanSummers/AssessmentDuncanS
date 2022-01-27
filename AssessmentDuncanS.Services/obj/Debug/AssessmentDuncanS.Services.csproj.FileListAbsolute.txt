@@ -14,3 +14,9 @@ C:\Users\djsum\source\repos\AssessmentDuncanS\AssessmentDuncanS.Services\bin\Deb
 C:\Users\djsum\source\repos\AssessmentDuncanS\AssessmentDuncanS.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 C:\Users\djsum\source\repos\AssessmentDuncanS\AssessmentDuncanS.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
 C:\Users\djsum\source\repos\AssessmentDuncanS\AssessmentDuncanS.Services\obj\Debug\AssessmentDuncanS.Services.csproj.CopyComplete
+C:\Users\djsum\source\repos\AssessmentDuncanS\AssessmentDuncanS.Services\bin\Debug\AssessmentDuncanS.Data.dll
+C:\Users\djsum\source\repos\AssessmentDuncanS\AssessmentDuncanS.Services\bin\Debug\AssessmentDuncanS.Models.dll
+C:\Users\djsum\source\repos\AssessmentDuncanS\AssessmentDuncanS.Services\bin\Debug\AssessmentDuncanS.Data.pdb
+C:\Users\djsum\source\repos\AssessmentDuncanS\AssessmentDuncanS.Services\bin\Debug\AssessmentDuncanS.Data.dll.config
+C:\Users\djsum\source\repos\AssessmentDuncanS\AssessmentDuncanS.Services\bin\Debug\AssessmentDuncanS.Models.pdb
+C:\Users\djsum\source\repos\AssessmentDuncanS\AssessmentDuncanS.Services\bin\Debug\AssessmentDuncanS.Models.dll.config

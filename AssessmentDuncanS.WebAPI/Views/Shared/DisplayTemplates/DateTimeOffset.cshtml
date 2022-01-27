@@ -1,7 +1,7 @@
-﻿
-@{
-    ViewBag.Title = "DateTimeOffset";
-}
+﻿<!--Deleted everything added following code-->
 
-<h2>DateTimeOffset</h2>
+@model System.DateTimeOffset?
 
+<span>
+    @(Model.HasValue ? Model.Value.LocalDateTime.ToString("g") : "-")
+</span>

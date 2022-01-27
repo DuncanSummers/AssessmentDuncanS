@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-fundamentals",
+      "appliesTo": "fundamentals/fundamentals.js",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-fundamentals",
+      "appliesTo": "fundamentals/fundamentals.cs",
+      "type": "launch"
+    }
+  ]
+}
