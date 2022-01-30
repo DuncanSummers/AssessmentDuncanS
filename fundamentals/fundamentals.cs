@@ -42,7 +42,9 @@ public void Sort()
     // using a dictionary to assign a number to a name. Sorting wasnt working so looked up and found out about SortedDictionary, so I switched to that
     SortedDictionary<string, int> keyValuePairs = new SortedDictionary<string, int>();
     keyValuePairs.Add("Kim", 1); keyValuePairs.Add("John", 3); keyValuePairs.Add("Sally", 2);
+
     // wasn't sure where to go from here cuz i've never used sorted dictionaries so used https://www.c-sharpcorner.com/UploadFile/dbeniwal321/how-to-sort-items-of-a-sorted-dictionary-with-C-Sharp/ to help
+
     foreach (KeyValuePair<string, int> name in keyValuePairs.OrderBy(key => key.Value))
     {
         Console.WriteLine($"text: {name.Key}, value: {name.Value}");

@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssessmentDuncanS.Models", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssessmentDuncanS.Services", "AssessmentDuncanS.Services\AssessmentDuncanS.Services.csproj", "{2F502A3B-4540-4C98-954B-766234A3E18A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{8A8E5A28-1775-41E6-8904-DC2DE37EAE54}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{2F502A3B-4540-4C98-954B-766234A3E18A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F502A3B-4540-4C98-954B-766234A3E18A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F502A3B-4540-4C98-954B-766234A3E18A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A8E5A28-1775-41E6-8904-DC2DE37EAE54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A8E5A28-1775-41E6-8904-DC2DE37EAE54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A8E5A28-1775-41E6-8904-DC2DE37EAE54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A8E5A28-1775-41E6-8904-DC2DE37EAE54}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
